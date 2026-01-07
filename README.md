@@ -8,6 +8,7 @@ Web Portfolio ini merupakan website sederhana yang dikembangkan sebagai sarana l
 📲 Tampilan responsif untuk berbagai ukuran layar
 🔗 Navigasi sederhana ke beberapa section utama
 🔧 Tools & Teknologi
+
 HTML5 – Membuat struktur konten
 CSS3 – Mengatur layout dan desain visual
 JavaScript – Menambahkan interaksi dan logika sederhana
